@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: yf-movie-finder
+      appname: yf-movie-finder1
 machine:
   node:
     version: 8.1.4
